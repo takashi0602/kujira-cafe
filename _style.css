@@ -1,0 +1,32 @@
+/* access.html */
+div.map {
+    text-align: center;
+}
+
+/* contact.html */
+form div {
+    padding: 12px;
+    border-bottom: 1px dashed #d6c2b5;
+}
+
+select {
+    width: 30em;
+}
+
+label {
+    color: #442220;
+}
+
+input[name=subject] {
+    width: 30em;
+}
+
+textarea {
+    width: 30em;
+    height: 6em;
+}
+
+imput[type=submit] {
+    margin: 20px 12px;
+    width: 30em;
+}
