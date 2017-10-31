@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+	background-color: #4b9a00;
+}
+
+.wrapper {
+	padding: 15px;
+	background-color: #e5ff92;
+}
+
+ul {
+	background-color: #caffc9;
+	font-weight: bold;
+}
+
+#text1 {
+	color: #3c53a3;
+	font-weight: 600;
+	font-size: 19px;
+}
+
+#text2 {
+	color: #7c5c8e;
+	font-size: 12px;
+	line-height: 24px;
+}
+
+#footer {
+	background-color: #ff6600;
+	font-weight: 600;
+	font-size: 19px;
+}
